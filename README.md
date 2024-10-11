@@ -50,11 +50,6 @@ Download File Zip in Release:
 
 ## Contacts Me
 
-<h1>
-
-[Discord](https://discord.com/users/822475459500834877/)
- </h1>
-
 <h1 align="center">
 
 [Discord](https://discord.com/users/822475459500834877/)
