@@ -11,13 +11,13 @@ Download File Zip in Release:
 
    - Download Java SE Development Kit 21.x (OR) 22.x (OR) 23.x
 
-   - Extarct File Zip
+   - Extarct File Zip / download kuntty.jar
+
+   - open terminal/Command prompt 
+
+   - location where you save
     
-   - Open Folder Burp Suite Professional Edition
-    
-   - Run kuntty.jar
-   
-   - Run Loader Command.
+   - Run java -jar kuntty.jar
 
    - Copy License Key to Burp Suite Pro click button Next.
 
